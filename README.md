@@ -7,11 +7,11 @@ For training the models, we provide a labelled dataset of 31,962 tweets. The dat
 
 Here we have to collect the twits data and create a data set in csv file form then use it to do the Twitter sentimental analysis.
 
-Libraries we using
-pandas 
-matplotlib 
-seaborn 
-scikit-learn
+Libraries we using:   
+pandas, 
+matplotlib, 
+seaborn,
+scikit-learn.
 
-Algorithms 
-Logistic Regression
+Algorithms:
+Logistic Regression.
